@@ -1,0 +1,17 @@
+
+
+header,nav {
+
+    flex-flow: column nowrap;
+}
+
+h1 {
+
+    flex-basis: 0;
+}
+
+a {
+
+    width: 100vw;
+}
+
